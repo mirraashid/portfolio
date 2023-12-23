@@ -233,7 +233,6 @@ const StyledProject = styled.li`
         height: 20px;
       }
     }
-
   }
 
   .project-image {

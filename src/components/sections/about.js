@@ -125,7 +125,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JS (ES6+)/TypeScript', 'React.JS/Next.Js', 'Node.js/Express', 'Python/Flask', 'Mongo/SQL', 'PHP/WordPress', 'AWS/AZURE', 'Git/Jira'];
+  const skills = [
+    'JS (ES6+)/TypeScript',
+    'React.JS/Next.Js',
+    'Node.js/Express',
+    'Python/Flask',
+    'Mongo/SQL',
+    'PHP/WordPress',
+    'AWS/AZURE',
+    'Git/Jira',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,16 +144,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Rashid and I enjoy creating things that live on the internet. I am a full stack developer with bachelors in Software Engineering and have more than 5 years of experience in software design and development.
+              Hello! My name is Rashid and I enjoy creating things that live on the internet. I am a
+              full stack developer with bachelors in Software Engineering and have more than 5 years
+              of experience in software design and development.
             </p>
 
             <p>
               Over the years, and I’ve had the privilege of working at{' '}
               <a href="https://www.goldmansachs.com/">Goldman Sachs</a>,{' '}
               <a href="https://www.airtel.in/">Airtel</a>, and a germany based{' '}
-              <a href="https://www.myfractalrange.com/">fintech-startup</a>. Last few years, 
-              I have been actively working as a freelance consultant/developer and delivered dozens of projects with 100% client satisfaction. 
-              My main focus these days is to work with startups/as an independent contractor (check my <a href="https://www.upwork.com/freelancers/~010837c2e156317cbb">Upwork Profile</a>) and help building something cool and amazing!
+              <a href="https://www.myfractalrange.com/">fintech-startup</a>. Last few years, I have
+              been actively working as a freelance consultant/developer and delivered dozens of
+              projects with 100% client satisfaction. My main focus these days is to work with
+              startups/as an independent contractor (check my{' '}
+              <a href="https://www.upwork.com/freelancers/~010837c2e156317cbb">Upwork Profile</a>)
+              and help building something cool and amazing!
             </p>
             <p>Some of my key achievements on Upwork are - </p>
             <p>🏆 Top Rated PLUS Expert (Top 1% On Upwork) </p>

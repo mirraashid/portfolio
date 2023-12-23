@@ -65,8 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a passionate software engineer specialized in design, development and deployment of exceptional
-        digital experiences. I’m focused on building accessible, human-centered and scalable products for web.
+        I’m a passionate software engineer specialized in design, development and deployment of
+        exceptional digital experiences. I’m focused on building accessible, human-centered and
+        scalable products for web.
       </p>
     </>
   );
@@ -77,7 +78,8 @@ const Hero = () => {
         className="email-link"
         href="https://www.upwork.com/freelancers/~010837c2e156317cbb"
         target="_blank"
-        rel="noreferrer">
+        rel="noreferrer"
+      >
         Hire Me
       </a>
     </span>

@@ -24,12 +24,7 @@ const Head = ({ title, description, image }) => {
     `,
   );
 
-  const {
-    defaultTitle,
-    defaultDescription,
-    siteUrl,
-    defaultImage,
-  } = site.siteMetadata;
+  const { defaultTitle, defaultDescription, siteUrl, defaultImage } = site.siteMetadata;
 
   const seo = {
     title: title || defaultTitle,

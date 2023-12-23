@@ -66,7 +66,7 @@ const StyledCredit = styled.div`
   }
 `;
 
-const Footer = () => 
+const Footer = () => (
   <StyledFooter>
     <StyledSocialLinks>
       <ul>
@@ -83,6 +83,7 @@ const Footer = () =>
     <StyledCredit tabindex="-1">
       <div>Design by Brittany Chiang</div>
     </StyledCredit>
-  </StyledFooter>;
+  </StyledFooter>
+);
 
 export default Footer;

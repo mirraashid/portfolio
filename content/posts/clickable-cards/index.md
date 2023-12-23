@@ -9,7 +9,6 @@ tags:
   - CSS
 ---
 
-
 Card layout where the card itself isn't an anchor link, but the whole card is clickable (with a `:before` pseudo element on the main `<a>`). Links inside of the card are still clickable.
 
 ## CSS

@@ -1,5 +1,5 @@
 ---
-date: '2019-01-14'
+date: '2023-08-23'
 title: 'Freelance Developer'
 company: 'Upwork'
 location: 'Remote'
