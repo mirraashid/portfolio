@@ -1,9 +1,9 @@
 ---
-date: '2014-08-21'
+date: '2019-08-21'
 title: 'Software Engineer'
 company: 'AirtelxLabs'
 location: 'Gurgaon, India'
-range: 'August 2014 - November 2016'
+range: 'August 2019 - November 2021'
 url: 'https://www.airtel.in/'
 ---
 

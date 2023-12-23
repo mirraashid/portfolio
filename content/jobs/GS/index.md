@@ -1,9 +1,9 @@
 ---
-date: '2016-01-21'
+date: '2021-01-21'
 title: 'Senior Software Engineer | Associate'
 company: 'Goldman Sachs'
 location: 'Hyderabad, India'
-range: 'January 2016 - April 2019'
+range: 'January 2021 - April 2023'
 url: 'https://www.goldmansachs.com/'
 ---
 
